@@ -1,8 +1,1 @@
--- 👇🏿 لازم تسوي فولو لهذه حساب عشان يشتغل السكربت رابط الحساب تحت 
- 
--- https://www.roblox.com/users/1259903042/profile
- 
- 
--- السكربت 👇🏿
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gtopass/vix/main/Vixen%20X.lua.ui", true))()
